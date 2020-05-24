@@ -1,0 +1,191 @@
+Dependencies for Project 'On-Site_Programmable_Logic_Controller', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 5060750::V5.06 update 6 (build 750)::ARMCC
+F (.\delay.c)(0x5E79DEE8)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (delay.h)(0x5EC0EE97)
+F (.\delay.h)(0x5EC0EE97)()
+F (.\lcd.c)(0x5E89582C)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\lcd.o --omf_browse .\objects\lcd.crf --depend .\objects\lcd.d)
+I (lcd.h)(0x5E79DEE8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F4756)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x5510368C)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D263976)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FF694)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (delay.h)(0x5EC0EE97)
+F (.\lcd.h)(0x5E79DEE8)()
+F (.\main.c)(0x5EC0FA3E)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5D9B7ADA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B7ADA)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B7AD8)
+I (C:\Keil_v5\ARM\ARMCC\include\limits.h)(0x5D9B7AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F4756)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x5510368C)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D263976)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FF694)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (ral.h)(0x5EC0FB72)
+I (key.h)(0x5EBB885A)
+I (lcd.h)(0x5E79DEE8)
+I (delay.h)(0x5EC0EE97)
+I (systemclock.h)(0x5E801F80)
+I (rotaryencoder.h)(0x5EC05DCD)
+I (led.h)(0x5EC06D60)
+I (pushbutton.h)(0x5EBF8E06)
+I (timers.h)(0x5EBE5417)
+I (adc.h)(0x5EBE5393)
+I (coretemp.h)(0x5EBE5348)
+F (.\rotaryencoder.c)(0x5EC05DCD)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\rotaryencoder.o --omf_browse .\objects\rotaryencoder.crf --depend .\objects\rotaryencoder.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B7ADA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B7AD8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5D9B7ADA)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F4756)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x5510368C)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D263976)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FF694)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (rotaryencoder.h)(0x5EC05DCD)
+I (pushbutton.h)(0x5EBF8E06)
+I (lcd.h)(0x5E79DEE8)
+I (delay.h)(0x5EC0EE97)
+I (key.h)(0x5EBB885A)
+F (.\rotaryencoder.h)(0x5EC05DCD)()
+F (.\systemclock.c)(0x5E801F80)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\systemclock.o --omf_browse .\objects\systemclock.crf --depend .\objects\systemclock.d)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F4756)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x5510368C)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D263976)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FF694)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (systemclock.h)(0x5E801F80)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B7AD8)
+F (.\systemclock.h)(0x5E801F80)()
+F (.\led.h)(0x5EC06D60)()
+F (.\led.c)(0x5EC0AB3B)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\led.o --omf_browse .\objects\led.crf --depend .\objects\led.d)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F4756)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x5510368C)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D263976)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FF694)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (led.h)(0x5EC06D60)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B7AD8)
+I (delay.h)(0x5EC0EE97)
+F (.\pushbutton.c)(0x5EBC9029)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\pushbutton.o --omf_browse .\objects\pushbutton.crf --depend .\objects\pushbutton.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B7AD8)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F4756)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x5510368C)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FF694)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (pushbutton.h)(0x5EBF8E06)
+I (key.h)(0x5EBB885A)
+I (led.h)(0x5EC06D60)
+I (delay.h)(0x5EC0EE97)
+F (.\pushbutton.h)(0x5EBF8E06)()
+F (.\key.h)(0x5EBB885A)()
+F (.\ral.h)(0x5EC0FB72)()
+F (.\ral.c)(0x5EC0FB83)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\ral.o --omf_browse .\objects\ral.crf --depend .\objects\ral.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x5D9B7ADA)
+I (C:\Keil_v5\ARM\ARMCC\include\stdlib.h)(0x5D9B7ADA)
+I (C:\Keil_v5\ARM\ARMCC\include\string.h)(0x5D9B7AD8)
+I (C:\Keil_v5\ARM\ARMCC\include\limits.h)(0x5D9B7AD2)
+I (C:\Keil_v5\ARM\ARMCC\include\stdbool.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F4756)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x5510368C)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D263976)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FF694)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (ral.h)(0x5EC0FB72)
+I (key.h)(0x5EBB885A)
+I (lcd.h)(0x5E79DEE8)
+I (delay.h)(0x5EC0EE97)
+I (systemclock.h)(0x5E801F80)
+I (rotaryencoder.h)(0x5EC05DCD)
+I (led.h)(0x5EC06D60)
+I (pushbutton.h)(0x5EBF8E06)
+I (timers.h)(0x5EBE5417)
+I (adc.h)(0x5EBE5393)
+I (coretemp.h)(0x5EBE5348)
+F (.\periodicTimer.c)(0x5EBE5338)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\periodictimer.o --omf_browse .\objects\periodictimer.crf --depend .\objects\periodictimer.d)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F4756)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x5510368C)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D263976)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FF694)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (timers.h)(0x5EBE5417)
+F (.\adc.c)(0x5EBE5338)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F4756)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x5510368C)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D263976)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FF694)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+F (.\OneShotTimer.c)(0x5EBE4CF5)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\oneshottimer.o --omf_browse .\objects\oneshottimer.crf --depend .\objects\oneshottimer.d)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F4756)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x5510368C)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D263976)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FF694)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+F (.\timers.h)(0x5EBE5417)()
+F (.\adc.h)(0x5EBE5393)()
+F (.\cpuTemperature.c)(0x5EBE5341)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\cputemperature.o --omf_browse .\objects\cputemperature.crf --depend .\objects\cputemperature.d)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F4756)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x5510368C)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D263976)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FF694)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
+I (timers.h)(0x5EBE5417)
+I (adc.h)(0x5EBE5393)
+F (.\coretemp.h)(0x5EBE5348)()
+F (RTE\Device\TM4C1230H6PM\startup_TM4C123.s)(0x51B73866)(--cpu Cortex-M4.fp.sp --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 529" --pd "_RTE_ SETA 1" --pd "TM4C1230H6PM SETA 1"--list .\listings\startup_tm4c123.lst --xref -o .\objects\startup_tm4c123.o --depend .\objects\startup_tm4c123.d)
+F (RTE\Device\TM4C1230H6PM\system_TM4C123.c)(0x550ABA3A)(--c99 --gnu -c --cpu Cortex-M4.fp.sp -D__EVAL -g -O0 --apcs=interwork --split_sections-I.\RTE\_Target_1-IC:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include-IC:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123-D__UVISION_VERSION="529" -D_RTE_ -DTM4C1230H6PM-o .\objects\system_tm4c123.o --omf_browse .\objects\system_tm4c123.crf --depend .\objects\system_tm4c123.d)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x5D9B7AD8)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C123.h)(0x530F4756)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\TM4C1230H6PM.h)(0x5510368C)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\core_cm4.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_version.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_compiler.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\cmsis_armcc.h)(0x5D263976)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\ARM\CMSIS\5.6.0\CMSIS\Core\Include\mpu_armv7.h)(0x5C8FF694)
+I (C:\Users\Amogue\AppData\Local\Arm\Packs\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123\system_TM4C123.h)(0x51B73866)
